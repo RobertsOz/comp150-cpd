@@ -126,3 +126,15 @@ Comp 140 The hacking handin was extended to 10PM, but I don't know if it will co
 Comp 160 I hadn't done much for the essay, but reading and talking to other people about their essays gave me some insight into how I should approach my essay.
 
 ## Week 10
+
+Comp 130 was a talk on Post mortems, what they are used for and how they are used in the industry. It was more for the BAs because they have to do a post morem on our group project, that we wont be a part of.
+
+Comp 160 was analysis of software quality, we researched unit testing practices, but it seems most of the students minds are already starting to wander and not much was done in the lecture.
+
+## Week 11
+
+Comp 130 introduced the Summer project we will be working on, creating our own world. Very interesting lecture outlining what a world is and definitely gave me inspiration and ideas to create our own world ideas.
+
+Comp 140, I Started work on my controller the main hurdle I hit was that I still didn't quite know how the adruino works in its interty and at first when thinking about the controler, I thought I would be as simple as plugin in 6 wires in the digital pins and 6 wires in the bread board but how my game is made, I need to know what wire is touching what. So I had to brainstorm how to achieve this.
+
+I reasearched and found that the analog pins can read a voltage so in a bread board if i plug a wire right after the main "colored" wire and link it to A0-A5 ports I can achieve what I want, because if the analog pin is recieving any voltage that means that wire is touching a wire from the digital pins
